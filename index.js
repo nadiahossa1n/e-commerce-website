@@ -7,5 +7,5 @@ function closeMenu () {
 }
 
 function goToBooks() {
-    window.location.href = `${window.location.origin}/books.html`
+    window.location.href = `./books.html`
 }
